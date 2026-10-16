@@ -6,7 +6,7 @@ Tenho foco em Infraestrutura de TI, Redes e Linux, com interesse em Cloud e auto
 
 ## 💻 Experiência prática
 
-Atuo com suporte de TI em ambiente escolar, auxiliando professores e usuários, realizando manutenção de computadores, instalação de sistemas e softwares e suporte a impressoras.
+Atuo com suporte de TI em ambiente escolar, auxiliando professores e usuários, realizando manutenção de computadores, instalação de sistemas e softwares e redes de computadores.
 
 ## 📚 Estudos e projetos
 
